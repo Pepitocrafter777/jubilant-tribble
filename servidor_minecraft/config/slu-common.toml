@@ -1,0 +1,361 @@
+
+[general]
+	#Decide to get start items on first connection.
+	"give start items" = true
+	#Decide to drop repairstone when player kills monster.
+	"drop repairstone" = true
+	#Decide to drop healingstone when player kills monster.
+	"drop healingstone" = true
+	#Decide to get buff when player wears souls-like armor. 
+	"armor passive" = true
+	#monster breaks boat.
+	"boat breaking" = true
+	#play boss theme music.
+	"play music" = true
+	#Boss destroys surrounding blocks.
+	"breaking blocks" = true
+	#Weapon trail appears when player attacks. 
+	"player weapon trail" = true
+	#Weapon trail appears when mob attacks. 
+	"mob weapon trail" = true
+
+[hollow]
+	#1=overworld / 2=nether / 3=end
+	"spawn dimension" = 1.0
+	#Souls-like mobs are spawned only on the ground.
+	"surface spawn" = true
+	#Decide if this mob will spawn with low chance.
+	"low spawn chance" = true
+	#Decide if this mob is naturally spawned.
+	"no spawn" = false
+
+[nightmare_knight]
+	#1=overworld / 2=nether / 3=end
+	"spawn dimension" = 1.0
+	#Souls-like mobs are spawned only on the ground.
+	"surface spawn" = true
+	#Decide if this mob will spawn with low chance.
+	"low spawn chance" = true
+	#Decide if this mob is naturally spawned.
+	"no spawn" = false
+
+[armed_hollow]
+	#1=overworld / 2=nether / 3=end
+	"spawn dimension" = 1.0
+	#Souls-like mobs are spawned only on the ground.
+	"surface spawn" = true
+	#Decide if this mob will spawn with low chance.
+	"low spawn chance" = true
+	#Decide if this mob is naturally spawned.
+	"no spawn" = false
+
+[temple_gaurd]
+	#1=overworld / 2=nether / 3=end
+	"spawn dimension" = 1.0
+	#Souls-like mobs are spawned only on the ground.
+	"surface spawn" = true
+	#Decide if this mob will spawn with low chance.
+	"low spawn chance" = true
+	#Decide if this mob is naturally spawned.
+	"no spawn" = false
+
+[knight]
+	#1=overworld / 2=nether / 3=end
+	"spawn dimension" = 1.0
+	#Souls-like mobs are spawned only on the ground.
+	"surface spawn" = true
+	#Decide if this mob will spawn with low chance.
+	"low spawn chance" = true
+	#Decide if this mob is naturally spawned.
+	"no spawn" = false
+
+[bad_omen_giant]
+	#1=overworld / 2=nether / 3=end
+	"spawn dimension" = 1.0
+	#Souls-like mobs are spawned only on the ground.
+	"surface spawn" = true
+	#Decide if this mob will spawn with low chance.
+	"low spawn chance" = true
+	#Decide if this mob is naturally spawned.
+	"no spawn" = false
+
+[twisted_souls]
+	#1=overworld / 2=nether / 3=end
+	"spawn dimension" = 1.0
+	#Souls-like mobs are spawned only on the ground.
+	"surface spawn" = true
+	#Decide if this mob will spawn with low chance.
+	"low spawn chance" = true
+	#Decide if this mob is naturally spawned.
+	"no spawn" = false
+
+[hollow_soldier]
+	#1=overworld / 2=nether / 3=end
+	"spawn dimension" = 1.0
+	#Souls-like mobs are spawned only on the ground.
+	"surface spawn" = true
+	#Decide if this mob will spawn with low chance.
+	"low spawn chance" = true
+	#Decide if this mob is naturally spawned.
+	"no spawn" = false
+
+[dungeon_knight]
+	#1=overworld / 2=nether / 3=end
+	"spawn dimension" = 1.0
+	#Souls-like mobs are spawned only on the ground.
+	"surface spawn" = true
+	#Decide if this mob will spawn with low chance.
+	"low spawn chance" = true
+	#Decide if this mob is naturally spawned.
+	"no spawn" = false
+
+[elite_knight]
+	#1=overworld / 2=nether / 3=end
+	"spawn dimension" = 1.0
+	#Souls-like mobs are spawned only on the ground.
+	"surface spawn" = true
+	#Decide if this mob will spawn with low chance.
+	"low spawn chance" = true
+	#Decide if this mob is naturally spawned.
+	"no spawn" = false
+
+[castle_guard]
+	#1=overworld / 2=nether / 3=end
+	"spawn dimension" = 1.0
+	#Souls-like mobs are spawned only on the ground.
+	"surface spawn" = true
+	#Decide if this mob will spawn with low chance.
+	"low spawn chance" = true
+	#Decide if this mob is naturally spawned.
+	"no spawn" = false
+
+[mad_knight]
+	#1=overworld / 2=nether / 3=end
+	"spawn dimension" = 1.0
+	#Souls-like mobs are spawned only on the ground.
+	"surface spawn" = true
+	#Decide if this mob will spawn with low chance.
+	"low spawn chance" = true
+	#Decide if this mob is naturally spawned.
+	"no spawn" = false
+
+[crusader]
+	#1=overworld / 2=nether / 3=end
+	"spawn dimension" = 1.0
+	#Souls-like mobs are spawned only on the ground.
+	"surface spawn" = true
+	#Decide if this mob will spawn with low chance.
+	"low spawn chance" = true
+	#Decide if this mob is naturally spawned.
+	"no spawn" = false
+
+[dark_knight]
+	#1=overworld / 2=nether / 3=end
+	"spawn dimension" = 2.0
+	#Souls-like mobs are spawned only on the ground.
+	"surface spawn" = true
+	#Decide if this mob will spawn with low chance.
+	"low spawn chance" = true
+	#Decide if this mob is naturally spawned.
+	"no spawn" = false
+
+[thief]
+	#1=overworld / 2=nether / 3=end
+	"spawn dimension" = 1.0
+	#Souls-like mobs are spawned only on the ground.
+	"surface spawn" = true
+	#Decide if this mob will spawn with low chance.
+	"low spawn chance" = true
+	#Decide if this mob is naturally spawned.
+	"no spawn" = false
+
+[magma_giant]
+	#1=overworld / 2=nether / 3=end
+	"spawn dimension" = 2.0
+	#Souls-like mobs are spawned only on the ground.
+	"surface spawn" = true
+	#Decide if this mob will spawn with low chance.
+	"low spawn chance" = true
+	#Decide if this mob is naturally spawned.
+	"no spawn" = false
+
+[siegmeyer]
+	#1=overworld / 2=nether / 3=end
+	"spawn dimension" = 1.0
+	#Souls-like mobs are spawned only on the ground.
+	"surface spawn" = true
+	#Decide if this mob will spawn with low chance.
+	"low spawn chance" = true
+	#Decide if this mob is naturally spawned.
+	"no spawn" = false
+
+[solaire]
+	#1=overworld / 2=nether / 3=end
+	"spawn dimension" = 1.0
+	#Souls-like mobs are spawned only on the ground.
+	"surface spawn" = true
+	#Decide if this mob will spawn with low chance.
+	"low spawn chance" = true
+	#Decide if this mob is naturally spawned.
+	"no spawn" = false
+
+[wither_skeleton_knight]
+	#1=overworld / 2=nether / 3=end
+	"spawn dimension" = 2.0
+	#Souls-like mobs are spawned only on the ground.
+	"surface spawn" = true
+	#Decide if this mob will spawn with low chance.
+	"low spawn chance" = true
+	#Decide if this mob is naturally spawned.
+	"no spawn" = false
+
+[shadow_assassin]
+	#1=overworld / 2=nether / 3=end
+	"spawn dimension" = 1.0
+	#Souls-like mobs are spawned only on the ground.
+	"surface spawn" = true
+	#Decide if this mob will spawn with low chance.
+	"low spawn chance" = true
+	#Decide if this mob is naturally spawned.
+	"no spawn" = false
+
+[noble_knight]
+	#1=overworld / 2=nether / 3=end
+	"spawn dimension" = 1.0
+	#Souls-like mobs are spawned only on the ground.
+	"surface spawn" = true
+	#Decide if this mob will spawn with low chance.
+	"low spawn chance" = true
+	#Decide if this mob is naturally spawned.
+	"no spawn" = false
+
+[hollow_knight]
+	#1=overworld / 2=nether / 3=end
+	"spawn dimension" = 1.0
+	#Souls-like mobs are spawned only on the ground.
+	"surface spawn" = true
+	#Decide if this mob will spawn with low chance.
+	"low spawn chance" = true
+	#Decide if this mob is naturally spawned.
+	"no spawn" = false
+
+[ringed_knight]
+	#1=overworld / 2=nether / 3=end
+	"spawn dimension" = 1.0
+	#Souls-like mobs are spawned only on the ground.
+	"surface spawn" = true
+	#Decide if this mob will spawn with low chance.
+	"low spawn chance" = true
+	#Decide if this mob is naturally spawned.
+	"no spawn" = false
+
+[executor]
+	#1=overworld / 2=nether / 3=end
+	"spawn dimension" = 1.0
+	#Souls-like mobs are spawned only on the ground.
+	"surface spawn" = true
+	#Decide if this mob will spawn with low chance.
+	"low spawn chance" = true
+	#Decide if this mob is naturally spawned.
+	"no spawn" = false
+
+[crucible_knight]
+	#1=overworld / 2=nether / 3=end
+	"spawn dimension" = 2.0
+	#Souls-like mobs are spawned only on the ground.
+	"surface spawn" = true
+	#Decide if this mob will spawn with low chance.
+	"low spawn chance" = true
+	#Decide if this mob is naturally spawned.
+	"no spawn" = false
+
+[dark_spirit]
+	#1=overworld / 2=nether / 3=end
+	"spawn dimension" = 1.0
+	#Souls-like mobs are spawned only on the ground.
+	"surface spawn" = true
+	#Decide if this mob will spawn with low chance.
+	"low spawn chance" = true
+	#Decide if this mob is naturally spawned.
+	"no spawn" = false
+
+[patches]
+	#1=overworld / 2=nether / 3=end
+	"spawn dimension" = 1.0
+	#Souls-like mobs are spawned only on the ground.
+	"surface spawn" = true
+	#Decide if this mob will spawn with low chance.
+	"low spawn chance" = true
+	#Decide if this mob is naturally spawned.
+	"no spawn" = false
+
+[havel]
+	#1=overworld / 2=nether / 3=end
+	"spawn dimension" = 1.0
+	#Souls-like mobs are spawned only on the ground.
+	"surface spawn" = true
+	#Decide if this mob will spawn with low chance.
+	"low spawn chance" = true
+	#Decide if this mob is naturally spawned.
+	"no spawn" = false
+
+[blasphemy_knight]
+	#1=overworld / 2=nether / 3=end
+	"spawn dimension" = 1.0
+	#Souls-like mobs are spawned only on the ground.
+	"surface spawn" = true
+	#Decide if this mob will spawn with low chance.
+	"low spawn chance" = true
+	#Decide if this mob is naturally spawned.
+	"no spawn" = false
+
+[ghost_samurai]
+	#1=overworld / 2=nether / 3=end
+	"spawn dimension" = 1.0
+	#Souls-like mobs are spawned only on the ground.
+	"surface spawn" = true
+	#Decide if this mob will spawn with low chance.
+	"low spawn chance" = true
+	#Decide if this mob is naturally spawned.
+	"no spawn" = false
+
+[tower_knight]
+	#1=overworld / 2=nether / 3=end
+	"spawn dimension" = 1.0
+	#Souls-like mobs are spawned only on the ground.
+	"surface spawn" = true
+	#Decide if this mob will spawn with low chance.
+	"low spawn chance" = true
+	#Decide if this mob is naturally spawned.
+	"no spawn" = false
+
+[successor]
+	#1=overworld / 2=nether / 3=end
+	"spawn dimension" = 1.0
+	#Souls-like mobs are spawned only on the ground.
+	"surface spawn" = true
+	#Decide if this mob will spawn with low chance.
+	"low spawn chance" = true
+	#Decide if this mob is naturally spawned.
+	"no spawn" = false
+
+[godrick_soldier]
+	#1=overworld / 2=nether / 3=end
+	"spawn dimension" = 1.0
+	#Souls-like mobs are spawned only on the ground.
+	"surface spawn" = true
+	#Decide if this mob will spawn with low chance.
+	"low spawn chance" = true
+	#Decide if this mob is naturally spawned.
+	"no spawn" = false
+
+[godrick_knight]
+	#1=overworld / 2=nether / 3=end
+	"spawn dimension" = 1.0
+	#Souls-like mobs are spawned only on the ground.
+	"surface spawn" = true
+	#Decide if this mob will spawn with low chance.
+	"low spawn chance" = true
+	#Decide if this mob is naturally spawned.
+	"no spawn" = false
+
