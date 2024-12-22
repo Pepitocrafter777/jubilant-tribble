@@ -287,6 +287,18 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/spruce_sapling_from_spruce_shrub": {
+    "criteria": {
+      "has_spruce_shrub": "2024-12-22 03:38:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/honey_block_slide": {
+    "criteria": {
+      "honey_block_slide": "2024-12-22 03:33:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2024-12-22 03:29:19 +0000"
@@ -470,6 +482,12 @@
       "minecraft:spider": "2024-12-22 03:22:42 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_plains": "2024-12-22 03:35:53 +0000"
+    },
+    "done": false
   },
   "travelersbackpack:recipes/misc/gold_tier_upgrade": {
     "criteria": {
