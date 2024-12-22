@@ -2340,3 +2340,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [22Dec2024 03:37:40.905] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/298, l='ServerLevel[world]', x=260.47, y=69.00, z=281.91] died, message: 'Villager was slain by Zombie'
 [22Dec2024 03:38:22.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepitogamer666 has made the advancement [A Seedy Place]
 [22Dec2024 03:42:38.255] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/498, l='ServerLevel[world]', x=221.52, y=66.00, z=298.44] died, message: 'Villager froze to death'
+[22Dec2024 03:52:52.706] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/226, l='ServerLevel[world]', x=195.30, y=38.05, z=228.50] died, message: 'Villager was slain by Zombie'
+[22Dec2024 04:02:12.305] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/288, l='ServerLevel[world]', x=264.47, y=78.00, z=304.69] died, message: 'Villager was slain by Door Knight'
